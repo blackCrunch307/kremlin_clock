@@ -10,4 +10,4 @@ I can't include them in the GitHub repo as the repo is MIT-Licensed and I don't 
 This script requires [VLC Media Player](https://www.videolan.org/vlc/) and its [Python Bindings](https://pypi.org/project/python-vlc/).
 
 ## Usage
-`$ python3 hour minute`
+`$ python3 kremlin_clock.py hour minute`
